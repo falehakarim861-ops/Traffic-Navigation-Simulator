@@ -49,6 +49,8 @@ The CLI version is designed for automated evaluation and runs without user input
 - Multiple algorithm support (BFS, UCS)  
 - Dynamic grid input  
 
+### Project Report
+[View Project Report](project_report.pdf)
 ##  Author
 Faleha Karim 
 VIT University
