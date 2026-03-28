@@ -50,7 +50,8 @@ The CLI version is designed for automated evaluation and runs without user input
 - Dynamic grid input  
 
 ### Project Report
-[View Project Report](project_report.pdf)
+[View Project Report (Google Docs)](https://docs.google.com/document/d/1B61d3MUliVfx2qD1ZTwrh-SK5EnPUuoKdxVBoJml4IU/edit?tab=t.0)
+
 ##  Author
 Faleha Karim 
 VIT University
